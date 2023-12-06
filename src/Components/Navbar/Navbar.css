@@ -33,3 +33,49 @@
     gap: 5px;
     cursor: pointer;
 }
+
+.nav-menu hr{
+    margin: 3px;
+    border: none;
+    width: 80%;
+    height: 2px;
+    border-radius: 10px;
+    background: red;
+}
+
+.login-cart{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.login-cart button{
+    width: 90px;
+    height: 35px;
+    overflow: hidden;
+    border: 2px solid #7a7a7a;
+    border-radius: 75px;
+    color: #515151;
+    background: #f3f3ff;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.login-cart button:active{
+    background: white;
+}
+
+.cart-count{
+    width: 21px;
+    height: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -35px;
+    margin-left: -35px;
+    font-size: 15px;
+    background: red;
+    color: white;
+    border-radius: 15px;
+}
