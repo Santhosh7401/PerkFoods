@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/PerkFoods/static/css/main.2a5d0da5.css",
-    "main.js": "/PerkFoods/static/js/main.cd21a6e2.js",
+    "main.css": "/PerkFoods/static/css/main.e7312fbe.css",
+    "main.js": "/PerkFoods/static/js/main.42da6819.js",
     "static/js/787.aadca95f.chunk.js": "/PerkFoods/static/js/787.aadca95f.chunk.js",
     "static/media/logo.svg": "/PerkFoods/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/PerkFoods/index.html",
-    "main.2a5d0da5.css.map": "/PerkFoods/static/css/main.2a5d0da5.css.map",
-    "main.cd21a6e2.js.map": "/PerkFoods/static/js/main.cd21a6e2.js.map",
+    "main.e7312fbe.css.map": "/PerkFoods/static/css/main.e7312fbe.css.map",
+    "main.42da6819.js.map": "/PerkFoods/static/js/main.42da6819.js.map",
     "787.aadca95f.chunk.js.map": "/PerkFoods/static/js/787.aadca95f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a5d0da5.css",
-    "static/js/main.cd21a6e2.js"
+    "static/css/main.e7312fbe.css",
+    "static/js/main.42da6819.js"
   ]
 }
